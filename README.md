@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Oman Rai
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVlYmI2NDd5MTZpMWpncGUwa3ZqMjlobDRyemJzbXRvaTk1bzRlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100"/>
 </div>
 
 <iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
