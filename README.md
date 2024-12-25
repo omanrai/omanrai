@@ -7,26 +7,8 @@
 <!-- ![Header](https://github.com/omanrai/omanrai/assets/logo.png) -->
 
 <div style="text-align: center; width: 100%;">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="auto"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250px"/>
 </div>
-
-
-<div style="text-align: center;">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/oman-rai-9638a322a/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <!-- <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a> -->
-    <a href="https://www.facebook.com/oman.rai.794">
-      <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=flat-square&color=blue" alt="Visit Count"/>
-  </div>
-</div>
-
-
 
 
 ---
@@ -75,16 +57,27 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 
 ---
 
-### 🐍 Snake Game from Contributions
-
-
-
 ### 📫 How to Reach Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/oman-rai-9638a322a/
-<!-- - 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com) -->
-- 📧 Gmail: oman2023rai@gmail.com
-
----
+<div style="text-align: center;">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/oman-rai-9638a322a/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <!-- <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a> -->
+    <a href="https://www.facebook.com/oman.rai.794">
+      <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="https://myaccount.google.com/?gar=WzEyMF0&hl=en&utm_source=OGB&utm_medium=act">
+      <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
+    </a>
+    
+  </div>
+</div>
+<div>
+<img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=flat-square&color=blue" alt="Visit Count"/>
+</div>
 
 ⭐️ Don't forget to star my repositories if you like what I do! 😊
