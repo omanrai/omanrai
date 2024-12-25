@@ -52,11 +52,11 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 
 ---
 
-### 📊 Contribution Graph
+<!-- ### 📊 Contribution Graph
 
 [![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=omanrai&theme=radical)](https://github.com/omanrai/github-readme-activity-graph)
 
----
+--- -->
 
 ### 📫 How to Reach Me
 
