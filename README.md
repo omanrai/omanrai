@@ -6,24 +6,28 @@
 
 <!-- ![Header](https://github.com/omanrai/omanrai/assets/logo.png) -->
 
-<div align="center">
+<div style="text-align: center; width: 100%;">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="auto"/>
 </div>
 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/oman-rai-9638a322a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <!-- <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-  <a href="https://www.facebook.com/oman.rai.794">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<div style="text-align: center;">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/oman-rai-9638a322a/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <!-- <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a> -->
+    <a href="https://www.facebook.com/oman.rai.794">
+      <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=flat-square&color=blue" alt="Visit Count"/>
+  </div>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=flat-square&color=blue" alt="VIsit Count"/>
+
+
 
 ---
 
