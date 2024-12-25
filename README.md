@@ -58,6 +58,8 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 
 ![GitHub Snake](https://github.com/omanrai/omanrai/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 📫 How to Reach Me
