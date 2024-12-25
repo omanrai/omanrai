@@ -1,10 +1,5 @@
-# Hi there! 👋 I'm Oman Rai
+# Namastee! 🙏 I'm Oman Rai
 
-
-
-<!-- <iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p> -->
-
-<!-- ![Header](https://github.com/omanrai/omanrai/assets/logo.png) -->
 
 <div style="text-align: center; width: 100%; max-width: 100%;">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="width: 100%; height: auto; max-height: 75vh;" />
@@ -52,11 +47,6 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 
 ---
 
-<!-- ### 📊 Contribution Graph
-
-[![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=omanrai&theme=radical)](https://github.com/omanrai/github-readme-activity-graph)
-
---- -->
 
 ### 📫 How to Reach Me
 
@@ -70,11 +60,11 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
     </a>
     <a href="https://myaccount.google.com/?gar=WzEyMF0&hl=en&utm_source=OGB&utm_medium=act">
       <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>    
+    <a href="https://sainotech.com/">
+      <img src="https://img.shields.io/badge/Saino%20Tech-blue?style=for-the-badge&logo=build&logoColor=white" alt="Saino Tech Badge"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=flat-square&color=blue" alt="Visit Count"/>
-    <a href="https://sainotech.com/">
-      <img src="https://img.shields.io/badge/Saino%20Tech-blue?style=for-the-badge&logo=build&logoColor=white" alt="Saino Tech Badge" style="width: 15%; max-width: 120px; height: auto;"/>
-    </a>
   </div>
 </div>
 
