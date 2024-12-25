@@ -20,7 +20,6 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
@@ -43,6 +42,12 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 
 ---
 
+### 📊 Contribution Graph
+
+[![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=omanrai&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### 🐍 Snake Game from Contributions
 
 ![GitHub Snake](https://github.com/omanrai/omanrai/blob/output/github-contribution-grid-snake.svg)
@@ -52,8 +57,8 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 ### 📫 How to Reach Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/oman-rai-9638a322a/
-- 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
-- 📧 Gmail: [your.email@example.com](mailto:your.email@example.com)
+<!-- - 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com) -->
+- 📧 Gmail: oman2023rai@gmail.com
 
 ---
 
