@@ -8,8 +8,6 @@
 
 
 
-
-
 ---
 
 ### 👨‍💻 About Me
@@ -56,16 +54,16 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 <div style="text-align: center;">
   <div id="badges">
     <a href="https://www.linkedin.com/in/oman-rai-9638a322a/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
       <a href="https://myaccount.google.com/?gar=WzEyMF0&hl=en&utm_source=OGB&utm_medium=act">
       <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>      
     <a href="https://www.facebook.com/oman.rai.794">
-      <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+      <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>    
     <a href="https://sainotech.com/">
-      <img src="https://img.shields.io/badge/Saino%20Tech-purple?style=for-the-badge&logo=build&logoColor=white" alt="Saino Tech Badge"/>
+      <img src="https://img.shields.io/badge/Saino%20Tech-8906E6?style=for-the-badge&logo=build&logoColor=white" alt="Saino Tech Badge"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=flat-square&color=blue" alt="Visit Count"/>
   </div>
