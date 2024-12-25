@@ -50,7 +50,7 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 ---
 ### 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omanrai&theme=nord&no-frame=true&row=2&column=6)](https://github.com/omanrai/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omanrai&theme=nord&no-frame=true&row=2&column=7)](https://github.com/omanrai/github-profile-trophy)
 
 ---
 
@@ -70,7 +70,7 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
     <a href="https://sainotech.com/">
       <img src="https://img.shields.io/badge/Saino%20Tech-8906E6?style=for-the-badge&logo=build&logoColor=white" alt="Saino Tech Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=for-the-badge&label=Profile+Views&color=brightgreen&abbreviated=true" alt="Visitors"/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=for-the-badge&color=brightgreen&abbreviated=true" alt="Visitors"/>
   </div>
 </div>
 
