@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Oman Rai
 
 ![Header](https://github.com/omanrai/omanrai/assets/banner.png)
 
