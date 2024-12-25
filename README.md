@@ -1,8 +1,8 @@
 # Namastee! 🙏 I'm Oman Rai
 
 
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="width: 100%; height: 250px  " />
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 
