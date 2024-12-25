@@ -49,7 +49,7 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 ---
 ### 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omanrai&theme=nord&no-frame=true&column=-1)](https://github.com/omanrai/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omanrai&theme=nord&no-frame=true&row=2)](https://github.com/omanrai/github-profile-trophy)
 
 ---
 
