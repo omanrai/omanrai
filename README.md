@@ -1,12 +1,27 @@
 # Hi there! 👋 I'm Oman Rai
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVlYmI2NDd5MTZpMWpncGUwa3ZqMjlobDRyemJzbXRvaTk1bzRlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100"/>
-</div>
+
 
 <!-- <iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p> -->
 
 <!-- ![Header](https://github.com/omanrai/omanrai/assets/logo.png) -->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="auto"/>
+</div>
+
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/oman-rai-9638a322a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <!-- <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a> -->
+  <a href="https://www.facebook.com/oman.rai.794">
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=flat-square&color=blue" alt="VIsit Count"/>
 
@@ -58,11 +73,7 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 
 ### 🐍 Snake Game from Contributions
 
-![GitHub Snake](https://github.com/omanrai/omanrai/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📫 How to Reach Me
 
