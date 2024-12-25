@@ -72,7 +72,7 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
       <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" style="width: 15%; max-width: 120px; height: auto;"/>
     </a>
     <a href="https://myaccount.google.com/?gar=WzEyMF0&hl=en&utm_source=OGB&utm_medium=act">
-      <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="width: 15%; max-width: 120px; height: auto;"/>
+      <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style=" height: auto;"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=flat-square&color=blue" alt="Visit Count" style="width: 15%; max-width: 120px; height: auto;"/>
   </div>
