@@ -42,8 +42,9 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 ### 📈 GitHub History
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=omanrai&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omanrai&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omanrai&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omanrai&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
@@ -69,7 +70,7 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
     <a href="https://sainotech.com/">
       <img src="https://img.shields.io/badge/Saino%20Tech-8906E6?style=for-the-badge&logo=build&logoColor=white" alt="Saino Tech Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=flat-square&color=blue" alt="Visit Count"/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=for-the-badge&label=Profile+Views&color=brightgreen&abbreviated=true" alt="Visitors"/>
   </div>
 </div>
 
