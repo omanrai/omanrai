@@ -2,7 +2,7 @@
 
 
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="width: 100%; height: auto; max-height: 75vh; display: block; margin: 0 auto;" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="width: 100%; height: auto; " />
 </div>
 
 
