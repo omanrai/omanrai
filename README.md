@@ -6,9 +6,10 @@
 
 <!-- ![Header](https://github.com/omanrai/omanrai/assets/logo.png) -->
 
-<div style="text-align: center; width: 100%;">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250px"/>
+<div style="text-align: center; width: 100%; max-width: 100%;">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="width: 100%; height: auto; max-height: 75vh;" />
 </div>
+
 
 
 ---
