@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="giphy.gif" width=100% height="300"/>
+  <img src="giphy.webp" width=100% height="300"/>
 </div>
 
 
