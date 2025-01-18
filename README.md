@@ -41,10 +41,9 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 
 ### 📈 GitHub History
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=omanrai&theme=radical&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omanrai&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omanrai&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omanrai&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
