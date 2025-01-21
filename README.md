@@ -43,7 +43,7 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omanrai&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omanrai&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omanrai&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=omanrai&theme=radical&hide_border=true)](https://git.io/streak-stats)
 <div>
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=omanrai&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
